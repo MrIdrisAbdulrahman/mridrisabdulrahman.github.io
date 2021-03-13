@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Abdulrahman Idris",
+    "occupation":"Data Scientist",
+    "description":" ",
+    "image":"profilepic.jpg",
+    "bio":"Data Scientist experienced at executing data and machine learning driven solutions to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, using predictive data modelling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems.",
+    "contactmessage":" ",
+    "email": "mrabdulrahman.idris@gmail.com",
+    "phone": "+4745917903",
+    "address":{
+      "street":" ",
+      "city":"Oslo,",
+      "state":"Norway"
+    },
+    "website": " ",
+    "resumedownload":" ",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/walshene",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/walshene",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":" ",
+        "url":" ",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abdulrahman-idris/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/good_vs_badlife/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MrIdrisAbdulrahman",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Norwegian University of Science and Technology (NTNU), Trondheim, Norway.",
+        "degree":"Master of Science (MSc) in Petroleum Engineering",
+        "graduated":"February 2021",
+        "description":"Specialized in Reservoir Engineering and Petrophysics"
+      },
+      {
+        "school":"Ukhta State Technical University (USTU), Ukhta, Russia.",
+        "degree":"Bachelor of Science (BSc) in Oil and Gas Engineering",
+        "graduated":"June 2017",
+        "description":"Specialized in Development of exploitation of oil and gas fields on the Arctic Shelf"
+      }
+    ],
+    "work":[
+      {
+        "company":" ",
+        "title":" ",
+        "years":" ",
+        "description":" "
+      },
+      {
+        "company":" ",
+        "title":" ",
+        "years":" ",
+        "description":" "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"Python",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":" ",
+        "user":" "
+      },
+      {
+        "text":" ",
+        "user":" "
+      }
+    ]
+  }
+}
