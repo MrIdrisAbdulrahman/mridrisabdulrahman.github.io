@@ -27,19 +27,9 @@
         "className": "fa fa-twitter"
       },
       {
-        "name": " ",
-        "url": " ",
-        "className": "fa fa-google-plus"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/abdulrahman-idris/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/good_vs_badlife/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -48,7 +38,7 @@
       },
       {
         "name": "skype",
-        "url": "http://skype.com",
+        "url": "https://join.skype.com/invite/npiuy3Qn9tDB",
         "className": "fa fa-skype"
       }
     ]
@@ -60,16 +50,54 @@
         "school": "Norwegian University of Science and Technology (NTNU), Trondheim, Norway.",
         "degree": "Master of Science (MSc) in Petroleum Engineering",
         "graduated": "February 2021",
-        "description": "Specialized in Reservoir Engineering and Petrophysics"
+        "description": "Specialization: Reservoir Engineering and Petrophysics",
+        "course1": "IE500618 - Machine Learning",
+        "course2": "TPG4155 - Applied Computer Methods in Petroleum Science",
+        "course3": "TPG4162 - 3D Visualization of Petroleum Data",
+        "course4": "TIØ4855 - Experts in Teamwork - Sustainable, Affordable Housing for all",
+        "course5": "POL2022 - Petroleum Management, Political Economy and Ethics",
+        "course6": "TPG4160 - Reservoir Simulation",
+        "course7": "TPG4145 - Reservoir Fluids and Flow",
+        "course8": "TPG4150 - Reservoir Recovery Techniques",
+        "course9": "TPG4115 - Reservoir Property Determination by Core Analysis and Well Testing",
+        "course10": "TPG4180 - Petrophysics, Interpretation of Well Data, Advanced Course",
+        "course11": "TPG4175 - Petrophysics - Well Logging, Fundamentals",
+        "course12": "TPG4230 - Field Development and Operations"
+
       },
       {
         "school": "Ukhta State Technical University (USTU), Ukhta, Russia.",
         "degree": "Bachelor of Science (BSc) in Oil and Gas Engineering",
         "graduated": "June 2017",
-        "description": "Specialized in Development of exploitation of oil and gas fields on the Arctic Shelf"
+        "description": "Specialization: Development of exploitation of oil and gas fields on the Arctic Shelf"      }
+    ],
+    "courses": [
+      {
+        "school": "Udemy Learning Platform",
+        "course": "Advanced SQL: MySQL Data Analysis & Business Intelligence.",
+        "graduated": "April, 2021.",
+        "description": "Advanced Exploratory Data Analysis with SQL"
+      },
+      {
+      "school": "Udemy Learning Platform",
+        "course": "Microsoft Power BI Desktop for Business Intelligence.",
+        "graduated": "April, 2021.",
+        "description": "Data Analysis with Microsoft Power BI"
+      },
+      {
+        "school": "Amazon Web Services (AWS) and Udacity Scholarship Programme.",
+        "course": "Fundamental course in the AWS Machine Learning Scholarship",
+        "graduated": "1st – 15th August, 2020.",
+        "description": "Machine Learning on the AWS platform"
+      },
+      {
+        "school": "Norwegian Open AI Lab & NVIDIA Deep Learning Institute, Trondheim, Norway.",
+        "course": "Fundamentals of Deep Learning",
+        "graduated": "September, 2020.",
+        "description": "Introduction to Deep Learning"
       }
     ],
-    "work": [
+    "experience": [
       {
         "company": " ",
         "title": " ",
@@ -119,6 +147,14 @@
       {
         "name": "Git",
         "level": "100%"
+      },
+      {
+        "name": "Amazon Web Services",
+        "level": "100%"
+      },
+      {
+        "name": "MATLAB",
+        "level": "100%"
       }
     ]
   },
@@ -143,7 +179,7 @@
         "url": "https://github.com/MrIdrisAbdulrahman/Car-Price-Prediction-Project"
       },
       {
-        "title": "Deploying machine learning models",
+        "title": "Deploying Machine Learning Models",
         "category": "Machine Learning Model Deployment",
         "image": "deploying_machine_learning_models.jpg",
         "url": "https://github.com/MrIdrisAbdulrahman/Deploying-Machine-Learning-Models"
@@ -153,6 +189,36 @@
         "category": "My React based portfolio website",
         "image": "resume_website.jpg",
         "url": "https://mridrisabdulrahman.github.io/"
+      },
+      {
+        "title": "Maven Fuzzy Factory Project 2",
+        "category": "Advanced Exploratory Data Analysis with SQL",
+        "image": "sql_2.jpg",
+        "url": "https://github.com/MrIdrisAbdulrahman/Maven_Fuzzy_Factory_Project_2"
+      },
+      {
+        "title": "Maven Fuzzy Factory Project 1",
+        "category": "Advanced Exploratory Data Analysis with SQL",
+        "image": "sql_1.png",
+        "url": "https://github.com/MrIdrisAbdulrahman/Maven_Fuzzy_Factory_Project_1"
+      },
+      {
+        "title": "SQL Movie Database Project 2",
+        "category": "Exploratory Data Analysis with SQL",
+        "image": "mysql_2.jpg",
+        "url": "https://github.com/MrIdrisAbdulrahman/SQL-Movie-Database-Project_2"
+      },
+      {
+        "title": "SQL Movie Database Project 1",
+        "category": "Exploratory Data Analysis with SQL",
+        "image": "mysql_1.png",
+        "url": "https://github.com/MrIdrisAbdulrahman/SQL-Movie-Database-Project_1"
+      },
+      {
+        "title": "AI - Minimax and Alpha-Beta Pruning Algorithms",
+        "category": "Artificial Intelligence",
+        "image": "alpha_beta.png",
+        "url": "https://github.com/MrIdrisAbdulrahman/AI_Minimax-and-Alpha-Beta-Pruning-algorithm"
       }
     ]
   },
