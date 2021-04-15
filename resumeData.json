@@ -69,7 +69,7 @@
         "school": "Ukhta State Technical University (USTU), Ukhta, Russia.",
         "degree": "Bachelor of Science (BSc) in Oil and Gas Engineering",
         "graduated": "June 2017",
-        "description": "Specialization: Development of exploitation of oil and gas fields on the Arctic Shelf"      }
+        "description": "Specialization: Development and Exploitation of Oil and Gas Fields on the Arctic Shelf"      }
     ],
     "courses": [
       {
@@ -82,7 +82,7 @@
       "school": "Udemy Learning Platform",
         "course": "Microsoft Power BI Desktop for Business Intelligence.",
         "graduated": "April, 2021.",
-        "description": "Data Analysis with Microsoft Power BI"
+        "description": "Exploratory Data Analysis with Microsoft Power BI"
       },
       {
         "school": "Amazon Web Services (AWS) and Udacity Scholarship Programme.",
